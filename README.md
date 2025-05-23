@@ -7,3 +7,7 @@ Curated collection of influential research papers and resources on large languag
 ## Vision Language Models
 1. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
+## Instruction Fine tuning
+1. [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
+
+
