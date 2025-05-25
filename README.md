@@ -4,6 +4,7 @@ Curated collection of influential research papers and resources on large languag
 ## Interpretability
 1. [Quantifying Attention Flow in Transformers](https://arxiv.org/abs/2005.00928)
 2. [References from Neel Nanda podcast](https://www.youtube.com/watch?v=YpFaPKOeNME)
+   - [Towards Principled Evaluations of Sparse Autoencoders for Interpretability and Control](https://arxiv.org/abs/2405.08366)
    - [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588)
 
 ## Vision Language Models
